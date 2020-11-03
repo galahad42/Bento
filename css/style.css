@@ -22,7 +22,7 @@
     --imgbg: url(/img/wal.jpg); 
     --imgcol: linear-gradient(
         rgba(255, 255, 255, 0.7),
-        rgba(255, 255, 255, 0.7)
+        rgba(0, 0, 0, 0.7)
     );
 }
 @media only screen and (max-width: 68.75em) {
